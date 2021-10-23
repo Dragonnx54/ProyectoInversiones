@@ -4,7 +4,7 @@ import kotlin.collections.ArrayList
 const val GENERACIONES:Int=20
 const val POBLACION:Int=50
 const val PROBABILIDADCRUZA: Int=80
-const val PROBABILIDADMUTA:Int=1
+const val PROBABILIDADMUTA:Int=80
 const val TORNEOS=50
 
 fun main(){
